@@ -1,0 +1,625 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<title>Home | House Painters | Painting Services in Pune, Pimpri Chinchwad  </title>
+		<meta name="description" content="We provide Painting Services in Pune, Pimpri Chinchwad. Professional Painters near me. On time services for Interior Painting, Exterior Painting, Door/Grill Painting, Textures Painting, Waterproofing, Bunglow Painting, Building Painting, Society Painting. 24x7 availability. ">
+		<meta name="keywords" content="Painting services, Painting contractors, Home Painting Contractors, House Painting Contractors, Home Painting services, House Painting services, Interior Painting, Exterior Painting, Door/Grill Painting, Textures Painting, Waterproofing
+">
+		<meta name="author" content="#">
+
+		<!-- Mobile Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- Favicon -->
+		<link rel="shortcut icon" href="images/favicon.ico">
+
+		<!-- Web Fonts -->
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,300&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=PT+Serif' rel='stylesheet' type='text/css'>
+
+		<!-- Bootstrap core CSS -->
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+
+		<!-- Font Awesome CSS -->
+		<link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+		<!-- Fontello CSS -->
+		<link href="fonts/fontello/css/fontello.css" rel="stylesheet">
+
+		<!-- Plugins -->
+		<link href="plugins/rs-plugin/css/settings.css" media="screen" rel="stylesheet">
+		<link href="plugins/rs-plugin/css/extralayers.css" media="screen" rel="stylesheet">
+		<link href="plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
+		<link href="css/animations.css" rel="stylesheet">
+		<link href="plugins/owl-carousel/owl.carousel.css" rel="stylesheet">
+
+		<!-- iDea core CSS file -->
+		<link href="css/style.css" rel="stylesheet">
+
+		<!-- Color Scheme (In order to change the color scheme, replace the red.css with the color scheme that you prefer)-->
+		<link href="css/skins/red.css" rel="stylesheet">
+
+		<!-- Custom css -->
+		<link href="css/custom.css" rel="stylesheet">
+<style>
+p{
+text-align:justify;}
+</style>
+	<link rel="canonical" href="http://www.royalpainthomesolution.com/"/>
+	
+	<!--/whatsapp call icon-->
+	   <link rel="stylesheet" type="text/css" href="css/w3.css">
+	   <link rel="stylesheet" type="text/css" href="css/call.css">
+	<!--//end whatsapp call icon-->
+	
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-77N40TJWLB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-77N40TJWLB');
+</script>
+
+
+<meta name="google-site-verification" content="0PWYFFmAyd7QNRflH5jNzHdOkN2eigeRyCWIQswnW84" />	
+	
+</head>
+
+	<!-- body classes: 
+			"boxed": boxed layout mode e.g. <body class="boxed">
+			"pattern-1 ... pattern-9": background patterns for boxed layout mode e.g. <body class="boxed pattern-1"> 
+	-->
+	<body class="front no-trans">
+		<!-- scrollToTop -->
+		<!-- ================ -->
+		<div class="scrollToTop"><i class="icon-up-open-big"></i></div>
+
+		<!-- page wrapper start -->
+		<!-- ================ -->
+		<div class="page-wrapper">
+
+			<!-- header-top start (Add "dark" class to .header-top in order to enable dark header-top e.g <div class="header-top dark">) -->
+			<!-- ================ -->
+			<div class="header-top">
+				<div class="container">
+					<div class="row">
+						<div class="col-xs-6 col-sm-6">
+							<div class="header-top-first clearfix">
+								<a href="#"><i class="pl-10 fa fa-phone"></i>  +91 9503552821/ 8796609440</a>
+							</div>
+						</div>
+						<div class="col-xs-6 col-sm-6">
+							<div class="header-top-first clearfix" align="right">
+								<a href="#"><i class="pl-10 fa fa-envelope-o"></i> khandekarb93@gmail.com</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+			
+			<!-- header-top end -->
+
+			<!-- header start classes:
+				fixed: fixed navigation mode (sticky menu) e.g. <header class="header fixed clearfix">
+				 dark: dark header version e.g. <header class="header dark clearfix">
+			================ -->
+			<header class="header fixed clearfix container-fluid">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-4 col-sm-4 col-4 logo">
+
+							<!-- header-left start -->
+							<!-- ================ -->
+							<div class="header-left clearfix">
+
+								<!-- logo -->
+								<!--<div class="logo"  style="width:250px;height:100px">
+									<h2><a href="index.html" style="color:white;">Royal Paint Home Solution</a></h2>
+								</div>-->
+								<div class="logo">
+									<a href="index.html"><img src="images/logo.png"></a>
+								</div>
+								<!-- name-and-slogan -->
+								<!-- <div class="site-slogan"> -->
+									<!-- Clean &amp; Powerful Bootstrap Theme -->
+								<!-- </div> -->
+
+							</div>
+							<!-- header-left end -->
+
+						</div>
+						<div class="col-md-8 col-sm-8 col-8 menu">
+
+							<!-- header-right start -->
+							<!-- ================ -->
+							<div class="header-right clearfix">
+
+								<!-- main-navigation start -->
+								<!-- ================ -->
+								<div class="main-navigation animated">
+
+									<!-- navbar start -->
+									<!-- ================ -->
+									<nav class="navbar navbar-default" role="navigation">
+										<div class="container-fluid">
+
+											<!-- Toggle get grouped for better mobile display -->
+											<div class="navbar-header">
+												<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+													<span class="sr-only">Toggle navigation</span>
+													<span class="icon-bar"></span>
+													<span class="icon-bar"></span>
+													<span class="icon-bar"></span>
+												</button>
+											</div>
+
+											<!-- Collect the nav links, forms, and other content for toggling -->
+											<div class="collapse navbar-collapse" id="navbar-collapse-1">
+												<ul class="nav navbar-nav navbar-right">
+												    <li><a href="index.html">Home</a></li>
+													<li><a href="about-us.html">About Us</a></li>
+												
+												    <li class="dropdown">
+														<a href="#" class="dropdown-toggle" data-toggle="dropdown">Services</a>
+														<ul class="dropdown-menu">
+															<li><a href="interior-painting.html">Interior Painting</a></li>
+															<li><a href="exterior-painting.html">Exterior Painting</a></li>
+															<li><a href="wall-texture-painting.html">Wall Texture Painting</a></li>
+															<li><a href="residential-commercial-painting.html">Residential & Commercial Painting</a></li>
+															<li><a href="designer-wall-painting.html">Designer Wall Painting</a></li>
+															<li><a href="plaster-of-paris.html">Plaster Of Paris</a></li>	
+														</ul>
+													</li>	
+													 <li><a href="gallery.html">Gallery</a></li>
+													<li><a href="contact-us.html">Contact Us</a></li>
+												</ul>
+											</div>
+
+										</div>
+									</nav>
+									<!-- navbar end -->
+
+								</div>
+								<!-- main-navigation end -->
+
+							</div>
+							<!-- header-right end -->
+
+						</div>
+					</div>
+				</div>
+			</header>
+			<!-- header end -->
+
+			<!-- banner start -->
+			<!-- ================ -->
+			<div class="banner">
+                
+				<!-- slideshow start -->
+				<!-- ================ -->
+				<div class="slideshow">
+				
+					<!-- slider revolution start -->
+					<!-- ================ -->
+					<div class="slider-banner-container">
+						<div class="slider-banner">
+							<ul>
+								<!-- slide 1 start -->
+							<li data-transition="random" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="">
+								
+								<img src="images/slider-1.1.jpg" class="img-fluid"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+							    </li>
+								<!-- slide 1 end -->
+
+								<!-- slide 2 start -->
+								<li data-transition="random" data-slotamount="7" data-masterspeed="1000" data-saveperformance="on" data-title="">
+								
+								<!-- main image -->
+								<img src="images/slider-2.2.jpg"  alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+								</li>
+								<!-- slide 2 end -->
+								<li data-transition="random" data-slotamount="7" data-masterspeed="800" data-saveperformance="on" data-title="">
+								
+								<!-- main image -->
+								<img src="images/slider-3.3.jpg" class="img-responsive" width="350" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+								</li>
+								
+								<li data-transition="random" data-slotamount="7" data-masterspeed="800" data-saveperformance="on" data-title="">
+								
+								<!-- main image -->
+								<img src="images/slider-4.4.jpg" class="img-responsive" width="350" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+								</li>
+								
+								
+								<li data-transition="random" data-slotamount="7" data-masterspeed="800" data-saveperformance="on" data-title="">
+								
+								<!-- main image -->
+								<img src="images/slider-5.5.jpg" class="img-responsive" width="350" alt="slidebg1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+								</li>
+								
+
+							</ul>
+							<div class="tp-bannertimer tp-bottom"></div>
+						</div>
+					</div>
+					<!-- slider revolution end -->
+
+				</div>
+				<!-- slideshow end -->
+
+			</div>
+			<!-- banner end -->
+
+			<!-- page-top start-->
+			<!-- ================ -->
+			<div class="page-top">
+				<div class="container">
+					<div class="row">
+					    <div class="col-md-5">
+						    <img src="images/about.jpeg" alt="painting">
+						</div>
+						
+						<div class="col-md-7">
+							<div class="call-to-action">
+								<h1 class="title">Welcome to Royal Painting Home Solution</h1>
+								<p style="text-align:justify;">Royal Painting Home Solution has established in 1999 a high reputation in the industry of painting and white wash. It is today renowned 
+								amid the leading painting contractors in Pune. The company intends to fulfill the diverse painting requirements of 
+								the individuals. Thus, we provide excellent solutions comprising interior painting, exterior painting, texture finishing,
+								designer wall painting, residential painting, and commercial painting. The paints, that we use, are optimum quality. Thus, 
+								the texture of the paint is smooth and perfect. Our painting professionals ensure that each and every layer of the paint is
+								properly applied to the wall. So, contact us anytime for availing services from the best house painting services providers in Pune.</p>
+								<a class="btn btn-white more" href="about-us.html">
+								Read more <i class="pl-10 fa fa-info"></i>
+								</a>
+
+								<!-- Modal 
+								
+								or
+								<a href="contact-us.html" class="btn btn-default contact">Contact us <i class="pl-10 fa fa-phone"></i></a>-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- page-top end -->
+
+			<!-- main-container start -->
+			<!-- ================ -->
+			<section class="main-container gray-bg">
+
+				<!-- main start -->
+				<!-- ================ -->
+				<div class="main">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<h1 class="text-center title">Our Services</h1>
+								<div class="separator"></div>
+								
+								<div class="row">
+									<div class="col-sm-4">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
+											<img src="images/services/home-1.png" class="img-responsive" alt="interior">
+											<h2>Interior Painting</h2>
+											<p>Interior painting with perfectly blending colors you like into pleasing combinations to reflect your preferences & personalities.</p>
+											<a href="interior-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
+										<img src="images/services/home-2.jpg" class="img-responsive" alt="exterior-painting">
+											<h2>Exterior Painting</h2>
+											<p>Whatever is the style of your home, perfect blend of exterior colors highlights the exterior architecture to 
+											make it shine.</p>
+											<a href="exterior-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+									<div class="col-sm-4" style="height: 471.53px;">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200" style="height: 471.53px;">
+											<img src="images/services/home-3.jpg" class="img-responsive" alt="texture-finish" style="padding-top: 10px;">
+											<h2 style="padding-top: 10px;">Texture Finish</h2>
+											<p>Alluring, most versatile finish, ideal for variety of surfaces like cement, mortar, marine plywood giving stylish & durable 
+											finish. </p>
+											<a href="wall-texture-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+								</div>
+									<div class="row">
+									<div class="col-sm-4">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="0">
+											<img src="images/services/home-4.jpg" class="img-responsive" alt="wall-painting">
+											<h2>Designer Wall Painting</h2>
+											<p>Have in mind- geometric and artistic to metallic and trendy paint effects? Make spaces come alive with a variety of designs on
+											interior walls.</p>
+											<a href="designer-wall-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="200">
+										<img src="images/services/home-5.jpg" class="img-responsive" alt="residential-painting">
+											<h2>Residential Painting</h2>
+											<p>First of all you have to find expert residential painters who exactly know what they are doing, also you need to find painters
+											who understand your unique resident.</p>
+											<a href="residential-commercial-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+									<div class="col-sm-4">
+										<div class="box-style-1 white-bg object-non-visible" data-animation-effect="fadeInUpSmall" data-effect-delay="400">
+											<img src="images/services/home-6.jpg" class="img-responsive" alt="commercial_painting">
+											<h2>Commercial Painting</h2>
+											<p>Royal Painting Home Solution can paint Hotels, Retirement Villages, Schools, Nursing Homes and any other commercial buildings. Save time 
+											by engaging painting contractor.</p>
+											<a href="residential-commercial-painting.html" class="btn-default btn">Read More</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- main end -->
+
+			</section>
+			<!-- main-container end -->
+
+			<!-- section start -->
+			<!-- ================ -->
+		<!--	<div class="section clearfix">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<h1 class="text-center">About Us</h1>
+							<div class="separator"></div>
+							<p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt ut laboriosam.</p>
+							<br>
+							<div class="row">
+								<div class="col-md-6">
+									<h2 class="title">iDea - Responsive Website Theme</h2>
+									<div class="row">
+										<div class="col-md-6">
+											<img src="images/section-image-2.png" alt="">
+										</div>
+										<div class="col-md-6">
+											<p>Quo soluta provident, quod reiciendis. Dolores nam totam aut illum ex ratione harum molestias maxime minima tempore, possimus, laudantium. Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+										</div>
+									</div>
+									<p>Esse sequi veniam, assumenda voluptate necessitatibus ipsa dicta vero, minima natus cum cupiditate magnam et placeat quo adipisci.</p>
+									<a href="page-about.html" class="btn btn-white">Learn More</a>
+									<div class="space hidden-md hidden-lg"></div>
+								</div>
+								<div class="col-md-6">
+									<div class="panel-group panel-dark" id="accordion">
+										<div class="panel panel-default">
+											<div class="panel-heading">
+												<h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">
+														<i class="fa fa-bold"></i>Bootstrap Based
+													</a>
+												</h4>
+											</div>
+											<div id="collapseOne" class="panel-collapse collapse in">
+												<div class="panel-body">
+													Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+												</div>
+											</div>
+										</div>
+										<div class="panel panel-default">
+											<div class="panel-heading">
+												<h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" class="collapsed">
+														<i class="fa fa-leaf"></i>Clean &amp; powerful code
+													</a>
+												</h4>
+											</div>
+											<div id="collapseTwo" class="panel-collapse collapse">
+												<div class="panel-body">
+													Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+												</div>
+											</div>
+										</div>
+										<div class="panel panel-default">
+											<div class="panel-heading">
+												<h4 class="panel-title">
+													<a data-toggle="collapse" data-parent="#accordion" href="#collapseThree" class="collapsed">
+														<i class="fa fa-html5"></i>HTML5/CSS3
+													</a>
+												</h4>
+											</div>
+											<div id="collapseThree" class="panel-collapse collapse">
+												<div class="panel-body">
+													Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident.
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<br>
+						</div>
+					</div>
+				</div>
+			</div>-->
+			<!-- section end -->
+
+			<!-- section start -->
+			<!-- ================ -->
+			<div class="section parallax parallax-bg-3">
+				<div class="container">
+					<div class="call-to-action">
+						<div class="row">
+							<div class="col-md-4">
+								
+							</div>
+							<div class="col-md-8">
+								<div class="text-center">
+									<h2> EXPERT COMMERCIAL & HOUSE PAINTERS</h2>
+									<p>We have the highest quality tradesmen and use only the most premium products. Our polite and professional
+									staff are dedicated to providing you with the highest quality finishes while working quickly and efficiently
+									to ensure minimum disruption to your busy lifestyle or the running of your business.</p>
+									<ul style="text-align:justify;">
+									
+									<li>Provide An Obligation Free Quote Detailing All Work And Product Specifications Including Time Frames, Terms And
+									Conditions And Detailed Price Schedule.</li>
+<li>Use Premium Quality Paints</li>
+<li>Provide Expert Advice About Colour And Product Selection</li>
+<li>Quality Control All Work</li>
+<li>Be Punctual And Reliable</li>
+<li>Work With Honesty</li>
+<li>Take All Care With Furnishings And/Or Garden And Clean Up On Completion</li>
+<li>Guarantee Quality In Craftsmanship For The Services Performed</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- section start -->
+<br>
+            <div class="footer_call" style="margin-top: 330px;">
+			  <span class="footerText"></span>
+			  <br class="footerText">
+			  <div class="footer_call_circle border-radius-50" style="margin-right: 22px;">
+				 <a href="tel:+91 9503552821">
+				 <i class="fa fa-phone w3-spin" style="font-size: 27px;"></i></a>
+			  </div>
+
+			  <div class="footer_call_no border-radius-3"><br><br>
+				<a href="https://wa.me/919503552821" style="float:right;" target="_blank"> <img src="images/whatsapp icon.png" width="70" height="70"></a>
+			  </div>
+			</div>
+			
+			<!-- footer start (Add "light" class to #footer in order to enable light footer) -->
+			<!-- ================ -->
+		<footer id="footer">
+
+				<!-- .footer start -->
+				<!-- ================ -->
+				<div  class="footer">
+					<div style="color:white" class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<div  class="footer-content">
+								
+									<div class="row">
+										<div class="col-md-4">
+										<h2 style="color:white" >About Us</h2>
+											<p style="text-align:justify;">Royal Painting Home Solution has established in 1999 a high reputation in the industry of painting and white wash.
+											It is today renowned amid the leading painting contractors in Pune.</p>	
+										</div>
+										<div  class="col-md-4">
+										<h2 style="color:white"> Location</h2>
+											<ul class="list-icons">
+											    <li><i class="fa fa-phone pr-10"></i> +91 9503552821/+91 8796609440</li>
+												
+												<li><i class="fa fa-envelope-o pr-10"></i> khandekarb93@gmail.com</li>
+												<li><i class="fa fa-map-marker pr-10"></i> Shop no. 13, Dattamandir Road, Yashwanti Chowk, Dominos Backside, Wakad, Pune, Maharashtra,<br> 411038</li>
+											</ul>
+										</div>
+										
+										<div  class="col-md-4">
+											<div class="footer-content">
+												<h2 style="color:white"> Quick Links</h2>
+												<nav >
+													<ul class="nav nav-pills">
+														<li><a style="color:white" href="commercial-painting-contractor-in-baner-balewadi.html">commercial painting</a></li>
+														<li><a style="color:white" href="designer-wall-painting-contractor-in-bavdhan-kothrud.html">designer wall painting</a></li>
+														<li><a style="color:white" href="exterior-painting-contractor-in-dapodi-aundh-khadki.html">exterior painting</a></li>
+														<li><a style="color:white" href="interior-painting-contractor-in-akurdi-ravet.html">interior painting</a></li>
+														<li><a style="color:white" href="plaster-of-paris-contractor-in-shivaji-nagar.html">plaster of paris contractor</a></li>
+														<li><a style="color:white" href="residential-painting-contractor-in-poonawale-wakad-pimple-saudagar.html">residential painting</a></li>
+														<li><a style="color:white" href="texture-finishing-contractor-in-bhosari-moshi.html">texture finishing</a></li>
+														<li><a style="color:white" href="wall-texture-painting-contractor-in-kalewadi-pimpri.html">wall texture painting</a></li>
+													</ul>
+												</nav>
+											</div>
+										</div>
+										
+									</div>
+									
+								</div>
+							</div>
+							<!------------------------------------>
+																						
+							
+						</div>
+						<div class="space-bottom hidden-lg hidden-xs"></div>
+					</div>
+				</div>
+				</div>
+				</div>
+				<!-- .footer end -->
+
+				<!-- .subfooter start -->
+				<!-- ================ -->
+				<div class="subfooter">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6">
+								<p style="color:white">Copyright © 2018 Royal Painting Home Solution Designed by <a target="_blank" href="http://opstechsolution.com/">Opstech Solution</a>. </p>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+				<!-- .subfooter end -->
+
+			</footer>
+			<!-- footer end -->
+
+		</div>
+		<!-- page-wrapper end -->
+
+		<!-- JavaScript files placed at the end of the document so the pages load faster
+		================================================== -->
+		<!-- Jquery and Bootstap core js files -->
+		<script type="text/javascript" src="plugins/jquery.min.js"></script>
+		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Modernizr javascript -->
+		<script type="text/javascript" src="plugins/modernizr.js"></script>
+
+		<!-- jQuery REVOLUTION Slider  -->
+		<script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+		<script type="text/javascript" src="plugins/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+		<!-- Isotope javascript -->
+		<script type="text/javascript" src="plugins/isotope/isotope.pkgd.min.js"></script>
+
+		<!-- Owl carousel javascript -->
+		<script type="text/javascript" src="plugins/owl-carousel/owl.carousel.js"></script>
+
+		<!-- Magnific Popup javascript -->
+		<script type="text/javascript" src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+		<!-- Appear javascript -->
+		<script type="text/javascript" src="plugins/jquery.appear.js"></script>
+
+		<!-- Count To javascript -->
+		<script type="text/javascript" src="plugins/jquery.countTo.js"></script>
+
+		<!-- Parallax javascript -->
+		<script src="plugins/jquery.parallax-1.1.3.js"></script>
+
+		<!-- Contact form -->
+		<script src="plugins/jquery.validate.js"></script>
+
+		<!-- SmoothScroll javascript -->
+		<script type="text/javascript" src="plugins/jquery.browser.js"></script>
+		<script type="text/javascript" src="plugins/SmoothScroll.js"></script>
+
+		<!-- Initialization of Plugins -->
+		<script type="text/javascript" src="js/template.js"></script>
+
+		<!-- Custom Scripts -->
+		<script type="text/javascript" src="js/custom.js"></script>
+
+	</body>
+</html>
